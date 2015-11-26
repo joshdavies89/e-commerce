@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Try Django 1.8 Logo](https://cfe-static.s3.amazonaws.com/media/try-django-18/images/try_django_18.png)
 
 Try Django 1.8 Tutorial Series
@@ -77,3 +78,7 @@ The tutorial code below is the final code from the end of each tutorial video. E
 
 [Final Code](../../tree/4ec82937b63e2e2c9441769dce7cc1a5bc393f28)
 
+=======
+# e-commerce
+E-commerce Platform built with Django
+>>>>>>> 9b1054b9c589efd484de3f45c77118cdc6dcf4fe
